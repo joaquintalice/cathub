@@ -31,7 +31,7 @@ function dataTemplate(data) {
         <h1>${elem.name}</h1>
 
         <div class="camisa">
-            <img class="camisa__imagen" src="/img/${elem.image}" alt="Imagen del producto">
+            <img class="camisa__imagen" src="./img/${elem.image}" alt="Imagen del producto">
 
             <div class="camisa__contenido">
                 <p class="camisa__parrafo">${elem.description}</p>
