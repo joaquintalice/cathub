@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Vue.js",
+        "price": 25,
+        "image": "1.jpg",
+        "description": "Vue.js es un framework progresivo de JavaScript para construir interfaces de usuario. Con su enfoque en la capa de vista, Vue.js facilita la creación de aplicaciones web interactivas y eficientes."
+    },
+    {
+        "id": 2,
+        "name": "Angular",
+        "price": 25,
+        "image": "2.jpg",
+        "description": "Angular es un framework de desarrollo web creado por Google. Ofrece una amplia gama de herramientas para crear aplicaciones web robustas y dinámicas."
+    },
+    {
+        "id": 3,
+        "name": "React",
+        "price": 25,
+        "image": "3.jpg",
+        "description": "React es una biblioteca de JavaScript utilizada para construir interfaces de usuario. Es conocida por su enfoque en la creación de componentes reutilizables."
+    },
+    {
+        "id": 4,
+        "name": "Redux",
+        "price": 25,
+        "image": "4.jpg",
+        "description": "Redux es una biblioteca de gestión de estado para aplicaciones JavaScript. Ayuda a mantener el estado de la aplicación de manera predecible y centralizada."
+    },
+    {
+        "id": 5,
+        "name": "NodeJs",
+        "price": 25,
+        "image": "5.jpg",
+        "description": "Node.js es un entorno de tiempo de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor. Es ampliamente utilizado para desarrollar aplicaciones web y API."
+    },
+    {
+        "id": 6,
+        "name": "Sass",
+        "price": 25,
+        "image": "6.jpg",
+        "description": "Sass es un preprocesador de CSS que facilita la escritura de estilos más eficientes y mantenibles. Ofrece características como variables y anidación."
+    },
+    {
+        "id": 7,
+        "name": "HTML5",
+        "price": 25,
+        "image": "7.jpg",
+        "description": "HTML5 es la última versión de HTML, el lenguaje de marcado utilizado para crear contenido web. Introduce nuevas características y mejoras para la creación de sitios web modernos."
+    },
+    {
+        "id": 8,
+        "name": "GitHub",
+        "price": 25,
+        "image": "8.jpg",
+        "description": "GitHub es una plataforma de desarrollo colaborativo que facilita la gestión de proyectos y el control de versiones de código fuente."
+    },
+    {
+        "id": 9,
+        "name": "Bulma",
+        "price": 25,
+        "image": "9.jpg",
+        "description": "Bulma es un marco de diseño CSS que ofrece un conjunto de estilos y componentes predefinidos para la creación de sitios web modernos y atractivos."
+    },
+    {
+        "id": 10,
+        "name": "TypeScript",
+        "price": 25,
+        "image": "10.jpg",
+        "description": "TypeScript es un lenguaje de programación que se basa en JavaScript y agrega características de tipado estático. Es ampliamente utilizado en el desarrollo de aplicaciones web."
+    },
+    {
+        "id": 11,
+        "name": "Drupal",
+        "price": 25,
+        "image": "11.jpg",
+        "description": "Drupal es un sistema de gestión de contenido (CMS) de código abierto que facilita la creación y administración de sitios web y aplicaciones en línea."
+    },
+    {
+        "id": 12,
+        "name": "JavaScript",
+        "price": 25,
+        "image": "12.jpg",
+        "description": "JavaScript es un lenguaje de programación ampliamente utilizado en el desarrollo web. Se utiliza para agregar interactividad y dinamismo a las páginas web."
+    },
+    {
+        "id": 13,
+        "name": "GraphQL",
+        "price": 25,
+        "image": "13.jpg",
+        "description": "GraphQL es un lenguaje de consulta para APIs que permite a los clientes solicitar solo los datos que necesitan. Es una alternativa eficiente a REST."
+    },
+    {
+        "id": 14,
+        "name": "Wordpress",
+        "price": 25,
+        "image": "14.jpg",
+        "description": "WordPress es un sistema de gestión de contenido (CMS) ampliamente utilizado para la creación de blogs y sitios web. Ofrece una amplia gama de complementos y temas."
+    },
+    {
+        "id": 18,
+        "name": "in-div",
+        "price": 30,
+        "image": "18.jpeg",
+        "description": "in-div es una marca de ropa que combina estilo y tecnología en sus diseños. Esta remera presenta un diseño único y moderno."
+    }
+]
