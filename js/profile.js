@@ -14,7 +14,7 @@ function userProfile() {
 
         let userInfo = {
             ...data,
-            img: '/img/avatar_profile.jpg'
+            img: './img/avatar_profile.jpg'
         }
 
         const lsUserImg = JSON.parse(localStorage.getItem('cathubUserImg'));
@@ -115,7 +115,7 @@ function userStorageData() {
     const { email, firstName, firstLastName, img, secondName, tel, secondLastName } = lsData
 
 
-    Image.src = img ?? "/img/avatar_profilel.jpg"
+    Image.src = img ?? "./img/avatar_profilel.jpg"
     inputUserFirstName.value = firstName ?? ""
     inputUserSecondName.value = secondName ?? ""
     inputUserLastName.value = firstLastName ?? ""
